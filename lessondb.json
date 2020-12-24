@@ -3,6 +3,7 @@
         {
             "lessonNr": "1",
             "name": "Hello!",
+            "source": "linguaboost_spanish_1.mp3",
             "phrases": [
                 {
                     "a": "Hello!",
