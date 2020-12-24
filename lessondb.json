@@ -48,6 +48,49 @@
                     "end": "98"
                 }
             ]
+        },
+        {
+            "lessonNr": "2",
+            "name": "Who is this?",
+            "source": "linguaboost_spanish_2.mp3",
+            "phrases": [
+                {
+                    "a": "Who is this?",
+                    "b": "¿Quién es?",
+                    "start": "35",
+                    "end": "37"
+                },
+                {
+                    "a": "This (She) is my mother.",
+                    "b": "Ella es mi madre.",
+                    "start": "45",
+                    "end": "47"
+                },
+                {
+                    "a": "This (He) is my brother.",
+                    "b": "Él es mi hermano.",
+                    "start": "56",
+                    "end": "58"
+                },
+                {
+                    "a": "This (She) is my sister.",
+                    "b": "Ella es mi hermana.",
+                    "start": "67",
+                    "end": "69"
+                },
+                {
+                    "a": "This (He) is my father.",
+                    "b": "Él es mi padre",
+                    "start": "79",
+                    "end": "81"
+                },
+                {
+                    "a": "I have a large family.",
+                    "b": "Tengo una gran familia.",
+                    "start": "90",
+                    "end": "92"
+                }
+            ]
         }
     ]
 }
