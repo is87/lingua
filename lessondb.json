@@ -1,0 +1,52 @@
+{
+    "lessons": [
+        {
+            "lessonNr": "1",
+            "name": "Hello!",
+            "phrases": [
+                {
+                    "a": "Hello!",
+                    "b": "¡Hola!",
+                    "start": "35",
+                    "end": "37"
+                },
+                {
+                    "a": "How are you?",
+                    "b": "¿Cómo estás?",
+                    "start": "43",
+                    "end": "45"
+                },
+                {
+                    "a": "I'm good, thank you.",
+                    "b": "Estoy bien, gracias.",
+                    "start": "53",
+                    "end": "55"
+                },
+                {
+                    "a": "What is your name?",
+                    "b": "¿Cuál es tu nombre?",
+                    "start": "64.5",
+                    "end": "67"
+                },
+                {
+                    "a": "My name is...",
+                    "b": "Mi nombre es...",
+                    "start": "74.5",
+                    "end": "77"
+                },
+                {
+                    "a": "Where are you from?",
+                    "b": "¿De dónde eres?",
+                    "start": "85",
+                    "end": "87"
+                },
+                {
+                    "a": "I am from Sweden.",
+                    "b": "Soy de Suecia.",
+                    "start": "96",
+                    "end": "98"
+                }
+            ]
+        }
+    ]
+}
