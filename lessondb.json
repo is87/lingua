@@ -80,7 +80,7 @@
                 },
                 {
                     "a": "This (He) is my father.",
-                    "b": "Él es mi padre",
+                    "b": "Él es mi padre.",
                     "start": "79",
                     "end": "81"
                 },
@@ -89,6 +89,49 @@
                     "b": "Tengo una gran familia.",
                     "start": "90",
                     "end": "92"
+                }
+            ]
+        },
+        {
+            "lessonNr": "3",
+            "name": "Where do you live?",
+            "source": "linguaboost_spanish_3.mp3",
+            "phrases": [
+                {
+                    "a": "Where do you live?",
+                    "b": "¿Dónde vives?",
+                    "start": "35",
+                    "end": "37"
+                },
+                {
+                    "a": "I live in Stockholm.",
+                    "b": "Vivo en Estocolmo.",
+                    "start": "46",
+                    "end": "48"
+                },
+                {
+                    "a": "I live in an apartment.",
+                    "b": "Vivo en un apartamento.",
+                    "start": "59",
+                    "end": "61"
+                },
+                {
+                    "a": "I live in a house.",
+                    "b": "Vivo en una casa.",
+                    "start": "71",
+                    "end": "73"
+                },
+                {
+                    "a": "Where do your parents live?.",
+                    "b": "¿Dónde viven tus padres?",
+                    "start": "83",
+                    "end": "85"
+                },
+                {
+                    "a": "My parents live in Oslo.",
+                    "b": "Mis padres viven en Oslo.",
+                    "start": "96",
+                    "end": "98"
                 }
             ]
         }
