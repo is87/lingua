@@ -38,6 +38,10 @@ body {
     margin: auto;
 }
 
+#main{
+    margin-bottom: 4vh;
+}
+
 .lang1 {
     padding: 1vh;
 }
