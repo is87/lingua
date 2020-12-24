@@ -1,7 +1,7 @@
 body {
     background-color: #e2e2e2;
     font-family: Arial, Helvetica, sans-serif;
-    font-size: 30pt;
+    font-size: 2vh;
     margin: 0;
     padding: 0;
 }
@@ -10,9 +10,9 @@ body {
     left: 0;
     right: 0;
     background-color: #4CAF50;
-    margin-bottom: 30px;
+    margin-bottom: 2vh;
     text-align: center;
-    padding: 20px;
+    padding: 1.5vh;
     font-weight: 600;
 }
 
@@ -20,8 +20,8 @@ body {
     width: 80%;
     text-align: right;
     margin:auto;
-    margin-bottom: 20px;
-    font-size: 30pt;
+    margin-bottom: 2vh;
+    margin-top: 2vh;
 }
 
 #main> :first-child {
@@ -33,18 +33,18 @@ body {
     border-bottom: 1px solid #ccc;
     border-right: 1px solid #ccc;
     border-left: 1px solid #ccc;
-    padding: 20px;
+    padding: 1vh;
     width: 80%;
     margin: auto;
 }
 
 .lang1 {
-    padding: 10px;
+    padding: 1vh;
 }
 
 .lang2 {
     color: #666666;
-    padding: 10px;
+    padding: 1vh;
 }
 
 .lb{
@@ -56,12 +56,12 @@ body {
 }
 #lesson{
     font-style: italic;
-    font-size: 2rem;
+    font-size: 1.5rem;
     text-align: center;
 }
 #lessonTitle{
     font-weight: bold;
-    font-size: 3rem;
+    font-size: 2rem;
 }
 #title{
     text-align: center;
