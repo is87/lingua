@@ -20,6 +20,7 @@ body {
     width: 80%;
     text-align: right;
     margin:auto;
+    margin-bottom: 20px;
 }
 
 #main> :first-child {
@@ -51,4 +52,16 @@ body {
 
 .spanish{
     color: #ffffff;
+}
+#lesson{
+    font-style: italic;
+    font-size: 2rem;
+    text-align: center;
+}
+#lessonTitle{
+    font-weight: bold;
+    font-size: 3rem;
+}
+#title{
+    text-align: center;
 }
