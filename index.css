@@ -1,0 +1,54 @@
+body {
+    background-color: #e2e2e2;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20pt;
+    margin: 0;
+    padding: 0;
+}
+
+#top{
+    left: 0;
+    right: 0;
+    background-color: #4CAF50;
+    margin-bottom: 30px;
+    text-align: center;
+    padding: 20px;
+    font-weight: 600;
+}
+
+#settings{
+    width: 80%;
+    text-align: right;
+    margin:auto;
+}
+
+#main> :first-child {
+    border-top: 1px solid #ccc;
+}
+
+.phraseDiv {
+    background-color: #ffffff;
+    border-bottom: 1px solid #ccc;
+    border-right: 1px solid #ccc;
+    border-left: 1px solid #ccc;
+    padding: 20px;
+    width: 80%;
+    margin: auto;
+}
+
+.lang1 {
+    padding: 10px;
+}
+
+.lang2 {
+    color: #666666;
+    padding: 10px;
+}
+
+.lb{
+    color:#337536;
+}
+
+.spanish{
+    color: #ffffff;
+}
